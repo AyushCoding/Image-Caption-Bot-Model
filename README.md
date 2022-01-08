@@ -27,7 +27,7 @@ The dataset used is flickr8k.
 
 ## Output
 
-The output of the model is a caption to the image generated text
+The output of the model is a caption to the image generated text.
 
 ## Results
 
