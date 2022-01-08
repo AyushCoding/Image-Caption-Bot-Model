@@ -6,11 +6,11 @@
   <img src = 'https://www.linkpicture.com/q/image_captioning_train.png' align = 'center'>
 </p>
 
-The above example is enough to understand image captioning.  
+The above example is enough to grasp picture captioning.
 
-Generation of captions is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.  
-It requires methods both from computer vision to understand the content of an image and a language model from the field of natural language processing to turn the understanding of the image into words in the right order.  
-This is also a very active area of research and an interesting multi modal topic where combination of both image and text processing is used to build a useful Deep Learning application, aka Image Captioning.    
+Caption generation is a challenging artificial intelligence task in which a textual explanation for a given image must be created.
+To interpret the content of an image, methods from computer vision are required, as well as a language model from the field of natural language processing to convert the knowledge of the picture into words in the correct sequence.
+This is also a very active research area and an interesting multi-modal issue in which a mix of picture and text processing is utilised to develop an usable Deep Learning application, called Image Captioning.  
 
 ---
 ### Dataset
@@ -27,11 +27,9 @@ The dataset used is flickr8k. You can request the data [here](https://www.kaggle
 
 ---
 ### Applications of Image captioning
-  - Probably can be used in the applications where text is used mostly and with the use of this we can infer a image in form of text.
-  - NLP is used extensively in the market now-a-days. For example, summarizing or gaining insights from a large corpus of text. In the same way, we can use the same concept to get insights from images as well.
-  - We can build a 360-degree metastore and make use of it in a wide variety of business like making user searches more efficient on an e-commerce platform based on metadata of products, other may be some other things like recommendations and all. One such application is here: https://www.sophist.io/
-  - We can describe like what happen in a given video segment.
-  - Can be used to give something back to mankind for visually impaired people.
+  - Self driving Cars.
+  - Aid to the blind.
+  - Automatic Captioning can help, make Google Image Search as good as Google Search.
  and many more.
 
 ---
