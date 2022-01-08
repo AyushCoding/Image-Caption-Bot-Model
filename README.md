@@ -39,7 +39,7 @@ The task of image captioning can be divided into two modules logically – one i
 For our image-based model (viz encoder) – we usually rely on a `Convolutional Neural Network` model. And for our language-based model (viz decoder) – we rely on a `Recurrent Neural Network`. The image below summarizes the approach given above.
 
 <p align = 'center'>
-  <img src="https://www.linkpicture.com/q/Model-of-Image-Caption-Generator-python-project.png" type="image">
+  <img src="https://www.linkpicture.com/q/arch.png" type="image" width="50%" height="50%">
 </p>
 
 
