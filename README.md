@@ -49,19 +49,19 @@ The output of the model is a caption to the image generated text.
 ---
 ### Results
 <p align = 'center'>
-  <img src = "https://www.linkpicture.com/q/Screenshot-118.png" type="image" align = 'center'>
+  <img src = "https://www.linkpicture.com/q/Screenshot-118.png" type="image" align = 'center' width="50%" height="50%">
 </p>
 
 <p align = 'center'>
-  <img src = "https://www.linkpicture.com/q/Screenshot-119.png" type="image" align = 'center'>
+  <img src = "https://www.linkpicture.com/q/Screenshot-119.png" type="image" align = 'center' width="50%" height="50%">
 </p>
 
 <p align = 'center'>
-  <img src = "https://www.linkpicture.com/q/Screenshot-120_1.png" type="image" align = 'center'>
+  <img src = "https://www.linkpicture.com/q/Screenshot-120_1.png" type="image" align = 'center' width="50%" height="50%">
 </p>
 
 <p align = 'center'>
-  <img src = "https://www.linkpicture.com/q/Screenshot-121_2.png" type="image" align = 'center'>
+  <img src = "https://www.linkpicture.com/q/Screenshot-121_2.png" type="image" align = 'center' width="50%" height="50%">
 </p>
 
 ---
