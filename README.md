@@ -3,7 +3,7 @@
 
 Image captioning is described as "automatically creating the textual description for an image using an artificial intelligence-based system." The purpose of such a system is to turn a given input image into textual or Natural Language-based description.
 
-![App Screenshot](https://www.linkpicture.com/q/image_captioning_train.png)
+![App Screenshot](https://www.linkpicture.com/q/image_captioning_train.png) <br />
 The above example is enough to understand image captioning.
 
 Generation of captions is a challenging artificial intelligence problem where a textual description must be generated for a given photograph.
