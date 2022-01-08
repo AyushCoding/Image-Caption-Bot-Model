@@ -13,7 +13,7 @@ This is also a very active area of research and an interesting multi modal topic
 
 ## Dataset
 
-The dataset used is flickr8k. Extract the images in Flickr8K_Data and the text data in Flickr8K_Text.
+The dataset used is flickr8k.
 
 ## Requirements
 
