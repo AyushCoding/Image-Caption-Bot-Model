@@ -46,7 +46,7 @@ For our image-based model (viz encoder) – we usually rely on a `Convolutional 
 ---
 
 ### Output
-The output of the model is a caption to the image generated text 
+The output of the model is a caption to the image generated text.
 
 ---
 ### Results
